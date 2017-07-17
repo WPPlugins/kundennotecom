@@ -1,0 +1,21 @@
+.knOptionsWrap{ background:#fff; margin:25px 15px 10px 15px;}
+.knOptionsWrap .header{ background:#f5993f url(../img/logo-kn.png) no-repeat left center; padding:20px 30px 20px 30px; background-position:30px 0px;}
+.knOptionsWrap .header h2{ color:#fff; line-height:1em; text-align:right;}
+
+.knCopyright{ text-align:center; font-size:0.9em; color:#b7b7b7; margin-bottom:25px;}
+
+@media(max-width:767px) {
+	.knOptionsWrap{  margin:25px 15px 25px 15px;}
+	.knOptionsWrap .header{ background:#f5993f url(../img/logo-kn.png) no-repeat center top; padding:70px 30px 10px 30px;}
+	.knOptionsWrap .header h2{ text-align:center;}
+}
+
+
+
+.knOptionsWrap .content{ padding:30px;}
+
+.knOptionsWrap input.textfield,
+.knOptionsWrap textarea.textfield{ border:1px solid #f2f2f2; width:100%; box-sizing:border-box; padding:5px 10px 5px 10px;}
+
+.knOptionsWrap p.submit{ text-align:right;}
+
